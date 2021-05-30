@@ -6,7 +6,7 @@ With the advancement of Artificial Intelligence, Computer vision came into the s
 Driver drowsiness detection is a form of car safety technology and is used to prevent accidents that are caused by the driver of the car getting drowsy or sleepy. In this project, we have used CNN through Python and data provided by Prasad Patil on kaggle to teach the model how to detect a driver’s drowsiness through eye monitoring.
 
 ## How to run it?
-
+## duppp
 
 
 ## Result
